@@ -1,4 +1,4 @@
-# appname
+# Local-LLM
 
 A new Flutter project.
 
